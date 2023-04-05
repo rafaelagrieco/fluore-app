@@ -129,34 +129,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: coelho ataque_0
-      rect:
-        serializedVersion: 2
-        x: 8293
-        y: 6920
-        width: 10
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0bc634e9dcfa3db44a2e92b80791a2d2
-      internalID: 1645699305
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: coelho ataque_2
       rect:
         serializedVersion: 2
         x: 261
-        y: 5853
+        y: 5856
         width: 1011
-        height: 967
+        height: 964
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -175,9 +154,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1678
-        y: 5851
+        y: 5858
         width: 1013
-        height: 969
+        height: 962
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -301,9 +280,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1706
-        y: 4589
+        y: 4558
         width: 647
-        height: 951
+        height: 982
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -397,27 +376,6 @@ TextureImporter:
       bones: []
       spriteID: 78396d8267b0d3644a4cf1a9a5eb7935
       internalID: 1892699987
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: coelho ataque_17
-      rect:
-        serializedVersion: 2
-        x: 157
-        y: 3913
-        width: 6
-        height: 13
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 028b98e70bdbfe64baaa4f453363b70f
-      internalID: -1449071988
       vertices: []
       indices: 
       edges: []
@@ -544,27 +502,6 @@ TextureImporter:
       bones: []
       spriteID: a0ea83091bea2eb47b134b6bb5dbb48b
       internalID: -1157306757
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: coelho ataque_24
-      rect:
-        serializedVersion: 2
-        x: 4100
-        y: 3769
-        width: 9
-        height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1d107277416e11544aeffdd570abd414
-      internalID: -1007005286
       vertices: []
       indices: 
       edges: []
