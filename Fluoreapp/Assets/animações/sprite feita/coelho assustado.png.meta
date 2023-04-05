@@ -1,0 +1,809 @@
+fileFormatVersion: 2
+guid: 4a29fbdf6265b04459ac138b73f2b969
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coelho assustado_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 5856
+        width: 1021
+        height: 970
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d420dddc1b571f84b880dde80062859d
+      internalID: 366064215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_3
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 5856
+        width: 1026
+        height: 970
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b348a53aa54223e43a78e7bc3921641c
+      internalID: -426222263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_5
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 5850
+        width: 1031
+        height: 976
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a40fc69ea8aaa43bb0f716ed86ae99
+      internalID: -24807800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_7
+      rect:
+        serializedVersion: 2
+        x: 4503
+        y: 5859
+        width: 1035
+        height: 966
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c815cb9c1aa3c8943ad019e996e1ffbe
+      internalID: 86549019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_9
+      rect:
+        serializedVersion: 2
+        x: 5929
+        y: 5860
+        width: 1022
+        height: 968
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ce7d545fb1b114882e59c18eaf2dcf
+      internalID: 1479482602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_11
+      rect:
+        serializedVersion: 2
+        x: 7348
+        y: 5856
+        width: 1025
+        height: 970
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e801b6f608c750d44bc7383c580c6677
+      internalID: -2104920953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_13
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 4435
+        width: 1033
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea703d9eaa3093144b5382e7c0a086ad
+      internalID: 993384596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_16
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 4433
+        width: 1048
+        height: 975
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14751c5646c275b4ca681ac3e42fed0e
+      internalID: 103604139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_19
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 4435
+        width: 1020
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dca606fa0490041a4c7f2300e7b27e
+      internalID: -347143161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_22
+      rect:
+        serializedVersion: 2
+        x: 4489
+        y: 4440
+        width: 1044
+        height: 968
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99505408f31911f4d82441a6007f6e58
+      internalID: -698202829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_25
+      rect:
+        serializedVersion: 2
+        x: 5899
+        y: 4434
+        width: 1052
+        height: 974
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adb6043030a5a643bd9934a96032a68
+      internalID: -1316408850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_28
+      rect:
+        serializedVersion: 2
+        x: 7313
+        y: 4435
+        width: 1060
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993676f4fcc7d384c999d9ae3ee58d47
+      internalID: 502509285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3015
+        width: 1064
+        height: 974
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4a2f325ac686f4f81b64632edecf90
+      internalID: 1576733006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_34
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 3018
+        width: 1073
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3832e33aef1ef64397d36633166afe8
+      internalID: 1216825104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_37
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 3018
+        width: 1073
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab4109223e7d7b4cacfd247c3db5fa1
+      internalID: 1412466113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_40
+      rect:
+        serializedVersion: 2
+        x: 4513
+        y: 3018
+        width: 1020
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f77ac07cc10e964b83d324491d7f464
+      internalID: 900518170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_43
+      rect:
+        serializedVersion: 2
+        x: 5928
+        y: 3018
+        width: 1023
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0572a48b238b0e34b9d934897939ef38
+      internalID: -136919366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_46
+      rect:
+        serializedVersion: 2
+        x: 7341
+        y: 3016
+        width: 1032
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe09b35e7773ecf459019bd1bb0b259e
+      internalID: 1947574822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_49
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1598
+        width: 1026
+        height: 970
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04beeee8eb498dd43adf4d408f6b543f
+      internalID: -1402274823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_52
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1599
+        width: 1036
+        height: 969
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55f2b244456934409536f7d1dd346f7
+      internalID: -1569166108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_55
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 1600
+        width: 1046
+        height: 968
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca3c8ef23dd061409d41085c0f2780a
+      internalID: -1472632873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_58
+      rect:
+        serializedVersion: 2
+        x: 4482
+        y: 1598
+        width: 1051
+        height: 970
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24be7876c29d0b54c8566efe69c3b9af
+      internalID: 133613404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_61
+      rect:
+        serializedVersion: 2
+        x: 5896
+        y: 1583
+        width: 1055
+        height: 976
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe778ee5f4f83e459fce7541697a794
+      internalID: -1672957425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_64
+      rect:
+        serializedVersion: 2
+        x: 7308
+        y: 1602
+        width: 1065
+        height: 968
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c884182a9d48e164398f51da5b28213d
+      internalID: -571269281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_67
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 177
+        width: 1028
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3c718d40a95e142a37c03f4c0a859f
+      internalID: 1959715295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_69
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 176
+        width: 1016
+        height: 974
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44326f4b99592f42933aa71d5463543
+      internalID: 1065200805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_71
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 177
+        width: 1019
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f067135f5462dd34cb107010639fd51b
+      internalID: 791043452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coelho assustado_73
+      rect:
+        serializedVersion: 2
+        x: 4519
+        y: 178
+        width: 1014
+        height: 972
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930f0be3a2353e141bc8e45c65c7e209
+      internalID: -134602020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      coelho assustado_60: -1075837363
+      coelho assustado_38: 1012190638
+      coelho assustado_0: 9781767
+      coelho assustado_64: -571269281
+      coelho assustado_6: -69602317
+      coelho assustado_48: 813229374
+      coelho assustado_5: -24807800
+      coelho assustado_27: 347813557
+      coelho assustado_28: 502509285
+      coelho assustado_47: -1551406918
+      coelho assustado_13: 993384596
+      coelho assustado_62: -955508044
+      coelho assustado_49: -1402274823
+      coelho assustado_52: -1569166108
+      coelho assustado_58: 133613404
+      coelho assustado_67: 1959715295
+      coelho assustado_12: -1693875961
+      coelho assustado_14: -1381412768
+      coelho assustado_35: 2045287814
+      coelho assustado_45: 907953155
+      coelho assustado_4: -384095083
+      coelho assustado_34: 1216825104
+      coelho assustado_51: -1039828232
+      coelho assustado_53: -1457987010
+      coelho assustado_16: 103604139
+      coelho assustado_3: -426222263
+      coelho assustado_22: -698202829
+      coelho assustado_30: 1053296644
+      coelho assustado_68: 1005232574
+      coelho assustado_69: 1065200805
+      coelho assustado_19: -347143161
+      coelho assustado_63: 1236232414
+      coelho assustado_17: -1903037362
+      coelho assustado_70: 1048747988
+      coelho assustado_24: -36959784
+      coelho assustado_32: 268910524
+      coelho assustado_71: 791043452
+      coelho assustado_43: -136919366
+      coelho assustado_26: -750031892
+      coelho assustado_18: -734621374
+      coelho assustado_40: 900518170
+      coelho assustado_25: -1316408850
+      coelho assustado_55: -1472632873
+      coelho assustado_10: -612224373
+      coelho assustado_41: 1779504692
+      coelho assustado_50: 332978602
+      coelho assustado_66: 236944645
+      coelho assustado_56: -1581417659
+      coelho assustado_57: 4523336
+      coelho assustado_65: -846133329
+      coelho assustado_36: 1051169059
+      coelho assustado_37: 1412466113
+      coelho assustado_11: -2104920953
+      coelho assustado_21: -268990817
+      coelho assustado_8: -277588770
+      coelho assustado_33: -631913266
+      coelho assustado_1: 366064215
+      coelho assustado_2: 1026122533
+      coelho assustado_20: 878907608
+      coelho assustado_31: 1576733006
+      coelho assustado_72: 1326392810
+      coelho assustado_46: 1947574822
+      coelho assustado_39: 534970786
+      coelho assustado_73: -134602020
+      coelho assustado_54: 662840025
+      coelho assustado_23: -344978786
+      coelho assustado_9: 1479482602
+      coelho assustado_29: 2026818935
+      coelho assustado_15: -1340309997
+      coelho assustado_44: -694909992
+      coelho assustado_59: 1590472818
+      coelho assustado_42: -541769928
+      coelho assustado_7: 86549019
+      coelho assustado_61: -1672957425
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
