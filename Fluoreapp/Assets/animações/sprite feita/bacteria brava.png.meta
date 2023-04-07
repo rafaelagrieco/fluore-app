@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0d851ebd44439a3488db0914ba86608e
+guid: 1dda2ef11658b224cbc0c420e275f380
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 500
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -129,349 +129,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: coelho ataque_2
+      name: bacteria brava_0
       rect:
         serializedVersion: 2
-        x: 261
-        y: 5856
-        width: 1011
-        height: 964
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4b1838b373797ed4f8676c7c052a7bae
-      internalID: 147585224
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: coelho ataque_4
-      rect:
-        serializedVersion: 2
-        x: 1678
-        y: 5858
-        width: 1013
-        height: 962
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eec30599a6d2f234f94618962c826014
-      internalID: -1807334411
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: coelho ataque_6
-      rect:
-        serializedVersion: 2
-        x: 3074
-        y: 5859
-        width: 1040
-        height: 961
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f0531ad8abc5edf40b10ce7894777674
-      internalID: 1041773912
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: coelho ataque_7
-      rect:
-        serializedVersion: 2
-        x: 4490
-        y: 5856
-        width: 1039
-        height: 964
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 343c4d456b3192f44894c255d1e7ba75
-      internalID: 1182558168
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: coelho ataque_9
-      rect:
-        serializedVersion: 2
-        x: 5908
-        y: 5854
-        width: 1038
-        height: 966
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fdeee5ef1cf11da4aa546ab5330624c0
-      internalID: 494074227
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: coelho ataque_10
-      rect:
-        serializedVersion: 2
-        x: 7374
-        y: 5856
-        width: 905
-        height: 1010
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6c34251f3b4b4e14f849f1ec3d604a8e
-      internalID: -1797321395
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: coelho ataque_11
-      rect:
-        serializedVersion: 2
-        x: 347
-        y: 4449
-        width: 710
-        height: 1029
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f09a7304bbcf8ae41b0a14198cebf35d
-      internalID: -198799011
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: coelho ataque_12
-      rect:
-        serializedVersion: 2
-        x: 1706
-        y: 4449
-        width: 647
-        height: 1091
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4ab6f8f1a166765448a51522bc2eb114
-      internalID: -747107583
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: coelho ataque_13
-      rect:
-        serializedVersion: 2
-        x: 3114
-        y: 4449
-        width: 653
-        height: 1045
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 66c3fd88cb816144d9043db6655f6e35
-      internalID: 1641008733
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: coelho ataque_14
-      rect:
-        serializedVersion: 2
-        x: 4482
-        y: 4449
-        width: 706
-        height: 1016
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f0f42002397ebfd49806ae60b4e04bbf
-      internalID: -51450994
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: coelho ataque_15
-      rect:
-        serializedVersion: 2
-        x: 5757
-        y: 4449
-        width: 848
-        height: 1016
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8c7de0f815867be47aeac3794bd49ddf
-      internalID: 1593181358
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: coelho ataque_16
-      rect:
-        serializedVersion: 2
-        x: 7112
-        y: 4445
-        width: 955
-        height: 987
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 78396d8267b0d3644a4cf1a9a5eb7935
-      internalID: 1892699987
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: coelho ataque_18
-      rect:
-        serializedVersion: 2
-        x: 181
-        y: 3027
-        width: 793
-        height: 1017
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 236e3b1650b17fd43967c15181cb6abf
-      internalID: -1246857464
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: coelho ataque_19
-      rect:
-        serializedVersion: 2
-        x: 1660
-        y: 3023
-        width: 690
-        height: 1021
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7ad285f0e5c05e64eabafb780f52a456
-      internalID: 972116595
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: coelho ataque_20
-      rect:
-        serializedVersion: 2
-        x: 3114
-        y: 3023
-        width: 653
-        height: 1063
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 113b8ef06cfc504448a6b379da3fa09b
-      internalID: -877417422
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: coelho ataque_21
-      rect:
-        serializedVersion: 2
-        x: 4527
-        y: 3023
-        width: 802
-        height: 1059
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 322b01fbf544f5d4980088d824a110ca
-      internalID: 959778111
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: coelho ataque_22
-      rect:
-        serializedVersion: 2
-        x: 5961
-        y: 3027
+        x: 373
+        y: 5338
         width: 885
-        height: 1026
+        height: 1131
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -479,20 +143,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f5ff4e1f6fd204843abf23a9df2277c7
-      internalID: 1234572711
+      spriteID: d37a72ef7c95d2a49915a6d511bd7847
+      internalID: -882603966
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coelho ataque_23
+      name: bacteria brava_1
       rect:
         serializedVersion: 2
-        x: 7429
-        y: 3023
-        width: 938
-        height: 963
+        x: 2079
+        y: 5338
+        width: 884
+        height: 1085
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -500,20 +164,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a0ea83091bea2eb47b134b6bb5dbb48b
-      internalID: -1157306757
+      spriteID: c82ada6d4c3c93947a8863443cb50b15
+      internalID: 64662160
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coelho ataque_27
+      name: bacteria brava_2
       rect:
         serializedVersion: 2
-        x: 265
-        y: 1601
-        width: 1009
-        height: 964
+        x: 3789
+        y: 5338
+        width: 884
+        height: 1039
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -521,20 +185,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18f25b0f0022e5c4385d335a13b4c75e
-      internalID: 756218003
+      spriteID: 14c2f9a8b69cb254c9dc032ce2a9d0df
+      internalID: 1886637156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coelho ataque_29
+      name: bacteria brava_3
       rect:
         serializedVersion: 2
-        x: 1643
-        y: 1594
-        width: 1048
-        height: 971
+        x: 5496
+        y: 5338
+        width: 883
+        height: 997
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -542,20 +206,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 793b917af3ad4384bbef1886791b884b
-      internalID: -1741727324
+      spriteID: fef236db9c37acd41902b3db2afd5a28
+      internalID: 1458003317
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coelho ataque_30
+      name: bacteria brava_4
       rect:
         serializedVersion: 2
-        x: 3069
-        y: 1594
-        width: 1043
-        height: 971
+        x: 7180
+        y: 5338
+        width: 905
+        height: 931
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -563,20 +227,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a54c5c5af5f3e64192c3ad78c16bc8b
-      internalID: 1603128153
+      spriteID: 838bdfa9ddea79941862b2b04a75807d
+      internalID: 1263126500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coelho ataque_32
+      name: bacteria brava_5
       rect:
         serializedVersion: 2
-        x: 4490
-        y: 1594
-        width: 1037
-        height: 971
+        x: 357
+        y: 3628
+        width: 909
+        height: 851
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -584,20 +248,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7aa93abade8c8784c8309b83e118354b
-      internalID: -1589638540
+      spriteID: 11c58e9ca953f2640baf8ab3bda7a7cc
+      internalID: -1808104076
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coelho ataque_34
+      name: bacteria brava_6
       rect:
         serializedVersion: 2
-        x: 5930
-        y: 1596
-        width: 1016
-        height: 969
+        x: 2071
+        y: 3628
+        width: 892
+        height: 759
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -605,20 +269,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71e32d373abe03d4ea1e7144411551be
-      internalID: -1314685158
+      spriteID: 150b56e88a53ed847b58a70592e2b248
+      internalID: 717913319
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coelho ataque_36
+      name: bacteria brava_7
       rect:
         serializedVersion: 2
-        x: 7348
-        y: 1596
-        width: 1019
-        height: 969
+        x: 3781
+        y: 3628
+        width: 892
+        height: 688
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -626,20 +290,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 938de180e85206d4597b2eb41360a14a
-      internalID: 184345475
+      spriteID: 62a7ea026c232f34f97e87e2584cde20
+      internalID: -849988178
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coelho ataque_38
+      name: bacteria brava_8
       rect:
         serializedVersion: 2
-        x: 256
-        y: 178
-        width: 1018
-        height: 970
+        x: 5483
+        y: 3628
+        width: 896
+        height: 679
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -647,20 +311,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63bcf90388ab505499114b1327e839ae
-      internalID: -503840759
+      spriteID: 6b7a5ef1dfc7c59478e3dbdaa41bdc0b
+      internalID: 1292780842
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coelho ataque_40
+      name: bacteria brava_9
       rect:
         serializedVersion: 2
-        x: 1668
-        y: 177
-        width: 1023
-        height: 971
+        x: 7193
+        y: 3628
+        width: 901
+        height: 667
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -668,8 +332,197 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af2b40d18a6ce01479675ddbc6158f54
-      internalID: 476901357
+      spriteID: f6b9bebcc07514a4eb55399ef41a749c
+      internalID: -28992394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bacteria brava_10
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1921
+        width: 896
+        height: 676
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf09e208af1f89418424bc3f747fc19
+      internalID: -14886817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bacteria brava_11
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 1921
+        width: 892
+        height: 684
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61a46c4685aebd43a89236e5ca2ecbe
+      internalID: -1919201646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bacteria brava_12
+      rect:
+        serializedVersion: 2
+        x: 3777
+        y: 1921
+        width: 896
+        height: 755
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99fca68a14202a4abf980c49d01b216
+      internalID: -2059387866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bacteria brava_13
+      rect:
+        serializedVersion: 2
+        x: 5478
+        y: 1921
+        width: 909
+        height: 851
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af95ff3942ebf124e95f08d9d11ea425
+      internalID: -108571107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bacteria brava_14
+      rect:
+        serializedVersion: 2
+        x: 7184
+        y: 1921
+        width: 901
+        height: 935
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f016e19c6cff9f468ae6ebc4e6ce016
+      internalID: -912345192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bacteria brava_15
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 211
+        width: 884
+        height: 1001
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cf2560a59cb82469bae662e7d92ec4
+      internalID: 1800058907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bacteria brava_16
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 211
+        width: 884
+        height: 1042
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e92c8c8d2258641bf8cbd7dd7050fe
+      internalID: 2018187649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bacteria brava_17
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 211
+        width: 884
+        height: 1088
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4470b9dd0067240ac3089a10763717
+      internalID: -548391126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bacteria brava_18
+      rect:
+        serializedVersion: 2
+        x: 5495
+        y: 211
+        width: 884
+        height: 1130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45c5696375394c489434e1ede0d3c58
+      internalID: -1143235995
       vertices: []
       indices: 
       edges: []
@@ -685,47 +538,25 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      coelho ataque_27: 756218003
-      coelho ataque_2: 147585224
-      coelho ataque_24: -1007005286
-      coelho ataque_7: 1182558168
-      coelho ataque_30: 1603128153
-      coelho ataque_33: -894508449
-      coelho ataque_20: -877417422
-      coelho ataque_22: 1234572711
-      coelho ataque_4: -1807334411
-      coelho ataque_10: -1797321395
-      coelho ataque_32: -1589638540
-      coelho ataque_3: 2128342587
-      coelho ataque_40: 476901357
-      coelho ataque_0: 1645699305
-      coelho ataque_9: 494074227
-      coelho ataque_6: 1041773912
-      coelho ataque_1: -679927495
-      coelho ataque_12: -747107583
-      coelho ataque_37: 1504327401
-      coelho ataque_19: 972116595
-      coelho ataque_23: -1157306757
-      coelho ataque_34: -1314685158
-      coelho ataque_26: 2097521481
-      coelho ataque_36: 184345475
-      coelho ataque_38: -503840759
-      coelho ataque_28: -860023708
-      coelho ataque_5: -1649819213
-      coelho ataque_15: 1593181358
-      coelho ataque_17: -1449071988
-      coelho ataque_11: -198799011
-      coelho ataque_14: -51450994
-      coelho ataque_21: 959778111
-      coelho ataque_16: 1892699987
-      coelho ataque_29: -1741727324
-      coelho ataque_35: 1954915389
-      coelho ataque_13: 1641008733
-      coelho ataque_18: -1246857464
-      coelho ataque_31: 643269808
-      coelho ataque_39: -769643074
-      coelho ataque_25: 93241475
-      coelho ataque_8: 831904563
+      bacteria brava_15: 1800058907
+      bacteria brava_9: -28992394
+      bacteria brava_6: 717913319
+      bacteria brava_12: -2059387866
+      bacteria brava_0: -882603966
+      bacteria brava_13: -108571107
+      bacteria brava_18: -1143235995
+      bacteria brava_10: -14886817
+      bacteria brava_16: 2018187649
+      bacteria brava_2: 1886637156
+      bacteria brava_8: 1292780842
+      bacteria brava_4: 1263126500
+      bacteria brava_11: -1919201646
+      bacteria brava_17: -548391126
+      bacteria brava_7: -849988178
+      bacteria brava_1: 64662160
+      bacteria brava_3: 1458003317
+      bacteria brava_14: -912345192
+      bacteria brava_5: -1808104076
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
