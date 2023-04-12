@@ -1,0 +1,573 @@
+fileFormatVersion: 2
+guid: 1f80b3d4d97b4b34aabaf2b3c383c57d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tikki home feliz_4
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 5164
+        width: 1339
+        height: 1281
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db129d99d026c8c4eb7166a81e875b6a
+      internalID: -1068457837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tikki home feliz_5
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 5164
+        width: 1338
+        height: 1281
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4134f6eb731f94b468928c5610dbfdfc
+      internalID: -1336964388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tikki home feliz_6
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 5162
+        width: 1448
+        height: 1308
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292e8c849faf24d46bd622382ed769d8
+      internalID: -2137256657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tikki home feliz_8
+      rect:
+        serializedVersion: 2
+        x: 5154
+        y: 5164
+        width: 1466
+        height: 1346
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313af7b1fc3c1b94f913382312e512ce
+      internalID: -1331292230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tikki home feliz_11
+      rect:
+        serializedVersion: 2
+        x: 6855
+        y: 5164
+        width: 1490
+        height: 1356
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7213b43b85aad49be6607feba00469
+      internalID: -418936951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tikki home feliz_25
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 3459
+        width: 1503
+        height: 1373
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284d3147475ef774598cc2793db6cdcc
+      internalID: -469146636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tikki home feliz_26
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 3459
+        width: 1510
+        height: 1382
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bb041d86d764747910e456629d446e
+      internalID: -1696103293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tikki home feliz_28
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 3459
+        width: 1537
+        height: 1418
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16b3b9d93884ac478de92699b96bb83
+      internalID: -1674846819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tikki home feliz_30
+      rect:
+        serializedVersion: 2
+        x: 5157
+        y: 3459
+        width: 1558
+        height: 1428
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca4d12c3898cce4fab72b4e4ceae0b2
+      internalID: 1560845465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tikki home feliz_31
+      rect:
+        serializedVersion: 2
+        x: 6855
+        y: 3459
+        width: 1412
+        height: 1427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f2bf9b63c5d744b991f00c6c334f24
+      internalID: 1839375501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tikki home feliz_40
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1757
+        width: 1397
+        height: 1223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e125656854b669b4195841379c999b5f
+      internalID: 1577297079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tikki home feliz_41
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1757
+        width: 1372
+        height: 1240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa62b62239cbf9468e6b54cfe5996df
+      internalID: -947049838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tikki home feliz_42
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 1757
+        width: 1339
+        height: 1261
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaf90d8ee4216845b22d0c41449b23c
+      internalID: -1220313326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tikki home feliz_43
+      rect:
+        serializedVersion: 2
+        x: 5154
+        y: 1757
+        width: 1338
+        height: 1261
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8dcb5788d97214d9eaecef2aacf9b0
+      internalID: -661676504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tikki home feliz_44
+      rect:
+        serializedVersion: 2
+        x: 6855
+        y: 1757
+        width: 1339
+        height: 1261
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a27b45900e56ea4fb7f4752006cd182
+      internalID: -645997163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tikki home feliz_45
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 56
+        width: 1339
+        height: 1273
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eeae7a86541988429ec6b79d1089587
+      internalID: 1040737090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tikki home feliz_46
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 56
+        width: 1338
+        height: 1281
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e2b4d32ed2dc94c9a436249091ac2a
+      internalID: 864962155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tikki home feliz_47
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 56
+        width: 1339
+        height: 1281
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48075680f1919940abb9956f0d85484
+      internalID: -487958994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tikki home feliz_4: -1068457837
+      tikki home feliz_14: 1060202658
+      tikki home feliz_38: 1520637366
+      tikki home feliz_11: -418936951
+      tikki home feliz_37: -599120390
+      tikki home feliz_36: 2021557927
+      tikki home feliz_43: -661676504
+      tikki home feliz_45: 1040737090
+      tikki home feliz_2: -627365988
+      tikki home feliz_6: -2137256657
+      tikki home feliz_13: -564339220
+      tikki home feliz_16: -910021558
+      tikki home feliz_23: 424876814
+      tikki home feliz_44: -645997163
+      tikki home feliz_10: -925101506
+      tikki home feliz_15: -588745588
+      tikki home feliz_30: 1560845465
+      tikki home feliz_19: 1257802166
+      tikki home feliz_17: 855628905
+      tikki home feliz_20: -322964258
+      tikki home feliz_46: 864962155
+      tikki home feliz_41: -947049838
+      tikki home feliz_8: -1331292230
+      tikki home feliz_42: -1220313326
+      tikki home feliz_26: -1696103293
+      tikki home feliz_27: 857802462
+      tikki home feliz_25: -469146636
+      tikki home feliz_3: 1492233936
+      tikki home feliz_39: 961130269
+      tikki home feliz_40: 1577297079
+      tikki home feliz_18: 1285202268
+      tikki home feliz_29: -1942463001
+      tikki home feliz_34: 907521172
+      tikki home feliz_7: -875228668
+      tikki home feliz_47: -487958994
+      tikki home feliz_5: -1336964388
+      tikki home feliz_31: 1839375501
+      tikki home feliz_35: 96439773
+      tikki home feliz_33: 7089127
+      tikki home feliz_22: 543555107
+      tikki home feliz_21: -1385260239
+      tikki home feliz_12: -1755116962
+      tikki home feliz_24: 24490978
+      tikki home feliz_28: -1674846819
+      tikki home feliz_9: 1098726130
+      tikki home feliz_32: 1804070861
+      tikki home feliz_1: 2052956751
+      tikki home feliz_0: 249797612
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
