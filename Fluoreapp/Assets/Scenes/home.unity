@@ -260,7 +260,7 @@ MonoBehaviour:
   m_text: Progresso
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b6cc34d9fd53d354fb9bb73f369cfbb1, type: 2}
-  m_sharedMaterial: {fileID: 1980450233904957183, guid: b6cc34d9fd53d354fb9bb73f369cfbb1, type: 2}
+  m_sharedMaterial: {fileID: -174649213299586064, guid: b6cc34d9fd53d354fb9bb73f369cfbb1, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -395,7 +395,7 @@ MonoBehaviour:
   m_text: ESCOVAR
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b6cc34d9fd53d354fb9bb73f369cfbb1, type: 2}
-  m_sharedMaterial: {fileID: 1980450233904957183, guid: b6cc34d9fd53d354fb9bb73f369cfbb1, type: 2}
+  m_sharedMaterial: {fileID: -174649213299586064, guid: b6cc34d9fd53d354fb9bb73f369cfbb1, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
