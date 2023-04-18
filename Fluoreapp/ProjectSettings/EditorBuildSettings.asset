@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
+    path: Assets/Scenes/jogo.unity
+    guid: 2db1e1810c98add49bf88d566b3a583b
+  - enabled: 1
     path: Assets/Scenes/inicio.unity
     guid: 3fc8acdd13e6c734bafef6554d6fdbcd
   m_configObjects:
