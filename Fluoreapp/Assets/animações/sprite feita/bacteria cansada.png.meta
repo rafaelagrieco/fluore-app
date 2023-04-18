@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 500
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -132,10 +132,10 @@ TextureImporter:
       name: bacteria cansada_1
       rect:
         serializedVersion: 2
-        x: 336
-        y: 5338
-        width: 825
-        height: 947
+        x: 1708
+        y: 5125.5
+        width: 1708.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,10 +153,10 @@ TextureImporter:
       name: bacteria cansada_2
       rect:
         serializedVersion: 2
-        x: 2046
-        y: 5338
-        width: 821
-        height: 999
+        x: 3416
+        y: 5125.5
+        width: 1708.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,10 +174,10 @@ TextureImporter:
       name: bacteria cansada_3
       rect:
         serializedVersion: 2
-        x: 3756
-        y: 5338
-        width: 821
-        height: 872
+        x: 5124
+        y: 5125.5
+        width: 1708.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,10 +195,10 @@ TextureImporter:
       name: bacteria cansada_4
       rect:
         serializedVersion: 2
-        x: 5462
-        y: 5338
-        width: 821
-        height: 859
+        x: 6832
+        y: 5125.5
+        width: 1708.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,10 +216,10 @@ TextureImporter:
       name: bacteria cansada_5
       rect:
         serializedVersion: 2
-        x: 7164
-        y: 5338
-        width: 845
-        height: 810
+        x: 0
+        y: 3417.5
+        width: 1708.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,10 +237,10 @@ TextureImporter:
       name: bacteria cansada_8
       rect:
         serializedVersion: 2
-        x: 340
-        y: 3628
-        width: 854
-        height: 730
+        x: 5124
+        y: 3417.5
+        width: 1708.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,10 +258,10 @@ TextureImporter:
       name: bacteria cansada_9
       rect:
         serializedVersion: 2
-        x: 2046
-        y: 3628
-        width: 855
-        height: 675
+        x: 6832
+        y: 3417.5
+        width: 1708.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,10 +279,10 @@ TextureImporter:
       name: bacteria cansada_10
       rect:
         serializedVersion: 2
-        x: 3752
-        y: 3628
-        width: 871
-        height: 538
+        x: 0
+        y: 1709.5
+        width: 1708.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,10 +300,10 @@ TextureImporter:
       name: bacteria cansada_13
       rect:
         serializedVersion: 2
-        x: 5463
-        y: 3628
-        width: 866
-        height: 508
+        x: 5124
+        y: 1709.5
+        width: 1708.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,10 +321,10 @@ TextureImporter:
       name: bacteria cansada_14
       rect:
         serializedVersion: 2
-        x: 7180
-        y: 3628
-        width: 880
-        height: 479
+        x: 6832
+        y: 1709.5
+        width: 1708.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -342,10 +342,10 @@ TextureImporter:
       name: bacteria cansada_15
       rect:
         serializedVersion: 2
-        x: 7164
-        y: 1921
-        width: 846
-        height: 814
+        x: 0
+        y: 1.5
+        width: 1708.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -360,34 +360,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bacteria cansada_16
-      rect:
-        serializedVersion: 2
-        x: 8055
-        y: 2687
-        width: 7
-        height: 4
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8a1896885d4325c47aba7423f31c1305
-      internalID: 923223609
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: bacteria cansada_17
       rect:
         serializedVersion: 2
-        x: 2046
-        y: 1921
-        width: 872
-        height: 538
+        x: 3416
+        y: 1.5
+        width: 1708.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -402,13 +381,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bacteria cansada_19
+      name: bacteria cansada_0
       rect:
         serializedVersion: 2
-        x: 3752
-        y: 1921
-        width: 855
-        height: 672
+        x: 0
+        y: 5125.5
+        width: 1708.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -416,20 +395,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53ffea611a11493418ee582c939ea708
-      internalID: -976141276
+      spriteID: 48acd8e253dcd2445818d1be5c6a981e
+      internalID: 16298382
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bacteria cansada_20
+      name: bacteria cansada_6
       rect:
         serializedVersion: 2
-        x: 5462
-        y: 1921
-        width: 851
-        height: 730
+        x: 1708
+        y: 3417.5
+        width: 1708.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -437,20 +416,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a6c1811e2496724fb5f2ad990cd64b5
-      internalID: -1545794950
+      spriteID: 205c2d555ba2fd6429ada03481d606d9
+      internalID: -1923989323
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bacteria cansada_21
+      name: bacteria cansada_7
       rect:
         serializedVersion: 2
-        x: 344
-        y: 1921
-        width: 863
-        height: 505
+        x: 3416
+        y: 3417.5
+        width: 1708.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -458,20 +437,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ffdf4ed0a3a863646afd2fb3ab6ca8e6
-      internalID: -983753395
+      spriteID: 76bfdcc465ba66e42a0355495642faf3
+      internalID: -681680234
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bacteria cansada_24
+      name: bacteria cansada_11
       rect:
         serializedVersion: 2
-        x: 340
-        y: 211
-        width: 822
-        height: 859
+        x: 1708
+        y: 1709.5
+        width: 1708.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -479,20 +458,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88f87816d3613bf4883b3a53ff4e3476
-      internalID: 645189242
+      spriteID: fa73afb13b033704c87323f85e3a8f11
+      internalID: 1710541929
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bacteria cansada_26
+      name: bacteria cansada_12
       rect:
         serializedVersion: 2
-        x: 2047
-        y: 211
-        width: 824
-        height: 872
+        x: 3416
+        y: 1709.5
+        width: 1708.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -500,20 +479,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c346255be4655914b9dbc84e845c3ff7
-      internalID: 482087429
+      spriteID: 932477b5c6b877a4db719f8eb5443433
+      internalID: 724153421
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bacteria cansada_27
+      name: bacteria cansada_16
       rect:
         serializedVersion: 2
-        x: 3752
-        y: 211
-        width: 826
-        height: 1003
+        x: 1708
+        y: 1.5
+        width: 1708.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -521,20 +500,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 01e5921b8a4e88f45ab6842c05a2e3f7
-      internalID: -227284407
+      spriteID: 5537d8d1faa2b9e4dba9b905351a3d0d
+      internalID: 923223609
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bacteria cansada_28
+      name: bacteria cansada_18
       rect:
         serializedVersion: 2
-        x: 5458
-        y: 211
-        width: 825
-        height: 947
+        x: 5124
+        y: 1.5
+        width: 1708.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -542,8 +521,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d05310e52b6cb544d9ef7eb885d451bf
-      internalID: 1865469058
+      spriteID: 07342468cc978bf47bdb880fdefdc576
+      internalID: -1608558981
       vertices: []
       indices: 
       edges: []
@@ -559,20 +538,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      bacteria cansada_28: 1865469058
-      bacteria cansada_22: 1713000106
       bacteria cansada_6: -1923989323
-      bacteria cansada_21: -983753395
       bacteria cansada_14: -1172932084
-      bacteria cansada_27: -227284407
       bacteria cansada_10: 170084969
-      bacteria cansada_24: 645189242
       bacteria cansada_17: -2054485406
       bacteria cansada_3: -505535729
-      bacteria cansada_20: -1545794950
       bacteria cansada_2: 1974633875
       bacteria cansada_0: 16298382
-      bacteria cansada_23: 550990890
       bacteria cansada_9: 2100542511
       bacteria cansada_8: 1544493946
       bacteria cansada_13: 2124343875
@@ -583,10 +555,6 @@ TextureImporter:
       bacteria cansada_1: -2014516518
       bacteria cansada_15: 284715402
       bacteria cansada_18: -1608558981
-      bacteria cansada_25: 133675859
-      bacteria cansada_26: 482087429
-      bacteria cansada_29: -760327110
-      bacteria cansada_19: -976141276
       bacteria cansada_11: 1710541929
       bacteria cansada_5: 161194541
   spritePackingTag: 

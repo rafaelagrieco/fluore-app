@@ -6,14 +6,31 @@ public class enemy : MonoBehaviour
 {
     public int health;
 
+    Animator anim;
+    
+
+    void Start()
+    {
+        anim = GetComponent<Animator>();
+    }
+
     public void TakeDamage(int damage)
     {
         health -= damage;
 
-        if(health <= 0)
+        if( health <= 0)
         {
-            Destroy(gameObject);
+            anim.SetTrigger("Die");
+        }
+        else if( health == 1)
+        {
+            anim.SetTrigger("Cansado");
         }
 
+    }
+
+    public void Die()
+    {
+        transform.gameObject.SetActive(false);
     }
 }

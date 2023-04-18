@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 500
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -132,10 +132,10 @@ TextureImporter:
       name: bacteria bola brava_0
       rect:
         serializedVersion: 2
-        x: 394
-        y: 5330
-        width: 893
-        height: 834
+        x: 0
+        y: 5125.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,10 +153,10 @@ TextureImporter:
       name: bacteria bola brava_1
       rect:
         serializedVersion: 2
-        x: 2099
-        y: 5330
-        width: 891
-        height: 801
+        x: 1709
+        y: 5125.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,10 +174,10 @@ TextureImporter:
       name: bacteria bola brava_2
       rect:
         serializedVersion: 2
-        x: 3808
-        y: 5330
-        width: 889
-        height: 772
+        x: 3418
+        y: 5125.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,10 +195,10 @@ TextureImporter:
       name: bacteria bola brava_3
       rect:
         serializedVersion: 2
-        x: 5515
-        y: 5330
-        width: 889
-        height: 747
+        x: 5127
+        y: 5125.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,10 +216,10 @@ TextureImporter:
       name: bacteria bola brava_4
       rect:
         serializedVersion: 2
-        x: 7222
-        y: 5330
-        width: 893
-        height: 687
+        x: 6836
+        y: 5125.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,10 +237,10 @@ TextureImporter:
       name: bacteria bola brava_5
       rect:
         serializedVersion: 2
-        x: 394
-        y: 3619
-        width: 893
-        height: 596
+        x: 0
+        y: 3417.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,10 +258,10 @@ TextureImporter:
       name: bacteria bola brava_6
       rect:
         serializedVersion: 2
-        x: 2101
-        y: 3619
-        width: 893
-        height: 551
+        x: 1709
+        y: 3417.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,10 +279,10 @@ TextureImporter:
       name: bacteria bola brava_7
       rect:
         serializedVersion: 2
-        x: 3808
-        y: 3619
-        width: 893
-        height: 595
+        x: 3418
+        y: 3417.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,10 +300,10 @@ TextureImporter:
       name: bacteria bola brava_8
       rect:
         serializedVersion: 2
-        x: 5520
-        y: 3622
-        width: 896
-        height: 686
+        x: 5127
+        y: 3417.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,10 +321,10 @@ TextureImporter:
       name: bacteria bola brava_10
       rect:
         serializedVersion: 2
-        x: 390
-        y: 1909
-        width: 897
-        height: 775
+        x: 0
+        y: 1709.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -342,10 +342,10 @@ TextureImporter:
       name: bacteria bola brava_11
       rect:
         serializedVersion: 2
-        x: 2101
-        y: 1913
-        width: 893
-        height: 801
+        x: 1709
+        y: 1709.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -363,10 +363,10 @@ TextureImporter:
       name: bacteria bola brava_12
       rect:
         serializedVersion: 2
-        x: 3812
-        y: 1913
-        width: 889
-        height: 834
+        x: 3418
+        y: 1709.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,10 +384,10 @@ TextureImporter:
       name: bacteria bola brava_13
       rect:
         serializedVersion: 2
-        x: 5519
-        y: 1913
-        width: 893
-        height: 884
+        x: 5127
+        y: 1709.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -405,10 +405,10 @@ TextureImporter:
       name: bacteria bola brava_14
       rect:
         serializedVersion: 2
-        x: 7230
-        y: 1913
-        width: 893
-        height: 911
+        x: 6836
+        y: 1709.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,10 +426,10 @@ TextureImporter:
       name: bacteria bola brava_15
       rect:
         serializedVersion: 2
-        x: 399
-        y: 209
-        width: 897
-        height: 936
+        x: 0
+        y: 1.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -447,10 +447,10 @@ TextureImporter:
       name: bacteria bola brava_16
       rect:
         serializedVersion: 2
-        x: 2110
-        y: 207
-        width: 889
-        height: 972
+        x: 1709
+        y: 1.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -468,10 +468,10 @@ TextureImporter:
       name: bacteria bola brava_17
       rect:
         serializedVersion: 2
-        x: 3812
-        y: 209
-        width: 893
-        height: 936
+        x: 3418
+        y: 1.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -489,10 +489,10 @@ TextureImporter:
       name: bacteria bola brava_18
       rect:
         serializedVersion: 2
-        x: 5520
-        y: 207
-        width: 892
-        height: 909
+        x: 5127
+        y: 1.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -510,10 +510,10 @@ TextureImporter:
       name: bacteria bola brava_19
       rect:
         serializedVersion: 2
-        x: 7226
-        y: 209
-        width: 889
-        height: 882
+        x: 6836
+        y: 1.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -523,6 +523,27 @@ TextureImporter:
       bones: []
       spriteID: 8db340a88f514004e94d5045f38caa23
       internalID: 1830484281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bacteria bola brava_9
+      rect:
+        serializedVersion: 2
+        x: 6836
+        y: 3417.5
+        width: 1709.4
+        height: 1708.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baf49266bf33ac499a68f597c6b0dfe
+      internalID: -1022532006
       vertices: []
       indices: 
       edges: []

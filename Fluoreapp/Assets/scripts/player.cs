@@ -25,11 +25,11 @@ public class player : MonoBehaviour
             if (Input.GetKey(KeyCode.Space))
             {
                 anim.SetTrigger("Ataque");
-                Collider2D[] enemiesToDamage = Physics2D.OverlapCircleAll(attackPos.position, attackRange);
-                for (int i = 0; i < enemiesToDamage.Length; i++)
-                {
-                    enemiesToDamage[i].GetComponent<enemy>().TakeDamage(damage);
-                }
+                //Collider2D[] enemiesToDamage = Physics2D.OverlapCircleAll(attackPos.position, attackRange);
+                //for (int i = 0; i < enemiesToDamage.Length; i++)
+                //{
+                //    enemiesToDamage[i].GetComponent<enemy>().TakeDamage(damage);
+                //}
             }
             timeBtwAttack = startTimeBtwAttack;
         }
@@ -43,5 +43,14 @@ public class player : MonoBehaviour
     {
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(attackPos.position, attackRange);
+    }
+
+    public void Attack()
+    {
+        Collider2D[] enemiesToDamage = Physics2D.OverlapCircleAll(attackPos.position, attackRange);
+        for (int i = 0; i < enemiesToDamage.Length; i++)
+        {
+            enemiesToDamage[i].GetComponent<enemy>().TakeDamage(damage);
+        }
     }
 }

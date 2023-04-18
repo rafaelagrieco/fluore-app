@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 500
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -132,10 +132,10 @@ TextureImporter:
       name: bacteria bola cansada_0
       rect:
         serializedVersion: 2
-        x: 419
-        y: 5330
-        width: 998
-        height: 534
+        x: 0
+        y: 5125.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,10 +153,10 @@ TextureImporter:
       name: bacteria bola cansada_1
       rect:
         serializedVersion: 2
-        x: 2122
-        y: 5330
-        width: 1001
-        height: 513
+        x: 1709
+        y: 5125.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,10 +174,10 @@ TextureImporter:
       name: bacteria bola cansada_2
       rect:
         serializedVersion: 2
-        x: 3829
-        y: 5330
-        width: 1001
-        height: 508
+        x: 3418
+        y: 5125.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,10 +195,10 @@ TextureImporter:
       name: bacteria bola cansada_3
       rect:
         serializedVersion: 2
-        x: 5536
-        y: 5330
-        width: 997
-        height: 480
+        x: 5127
+        y: 5125.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,10 +216,10 @@ TextureImporter:
       name: bacteria bola cansada_4
       rect:
         serializedVersion: 2
-        x: 7243
-        y: 5330
-        width: 997
-        height: 442
+        x: 6836
+        y: 5125.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,10 +237,10 @@ TextureImporter:
       name: bacteria bola cansada_5
       rect:
         serializedVersion: 2
-        x: 403
-        y: 3619
-        width: 1014
-        height: 380
+        x: 0
+        y: 3417.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,10 +258,10 @@ TextureImporter:
       name: bacteria bola cansada_6
       rect:
         serializedVersion: 2
-        x: 2110
-        y: 3619
-        width: 1014
-        height: 355
+        x: 1709
+        y: 3417.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,10 +279,10 @@ TextureImporter:
       name: bacteria bola cansada_7
       rect:
         serializedVersion: 2
-        x: 3821
-        y: 3619
-        width: 1013
-        height: 380
+        x: 3418
+        y: 3417.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,10 +300,10 @@ TextureImporter:
       name: bacteria bola cansada_8
       rect:
         serializedVersion: 2
-        x: 5540
-        y: 3622
-        width: 1002
-        height: 440
+        x: 5127
+        y: 3417.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,10 +321,10 @@ TextureImporter:
       name: bacteria bola cansada_9
       rect:
         serializedVersion: 2
-        x: 7247
-        y: 3620
-        width: 997
-        height: 479
+        x: 6836
+        y: 3417.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -342,10 +342,10 @@ TextureImporter:
       name: bacteria bola cansada_10
       rect:
         serializedVersion: 2
-        x: 415
-        y: 1909
-        width: 1002
-        height: 509
+        x: 0
+        y: 1709.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -363,10 +363,10 @@ TextureImporter:
       name: bacteria bola cansada_11
       rect:
         serializedVersion: 2
-        x: 2126
-        y: 1913
-        width: 998
-        height: 513
+        x: 1709
+        y: 1709.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,10 +384,10 @@ TextureImporter:
       name: bacteria bola cansada_12
       rect:
         serializedVersion: 2
-        x: 3833
-        y: 1913
-        width: 1002
-        height: 534
+        x: 3418
+        y: 1709.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -405,10 +405,10 @@ TextureImporter:
       name: bacteria bola cansada_13
       rect:
         serializedVersion: 2
-        x: 5544
-        y: 1913
-        width: 1001
-        height: 567
+        x: 5127
+        y: 1709.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,10 +426,10 @@ TextureImporter:
       name: bacteria bola cansada_14
       rect:
         serializedVersion: 2
-        x: 7251
-        y: 1913
-        width: 1002
-        height: 580
+        x: 6836
+        y: 1709.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -447,10 +447,10 @@ TextureImporter:
       name: bacteria bola cansada_15
       rect:
         serializedVersion: 2
-        x: 424
-        y: 209
-        width: 1001
-        height: 594
+        x: 0
+        y: 1.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -468,10 +468,10 @@ TextureImporter:
       name: bacteria bola cansada_16
       rect:
         serializedVersion: 2
-        x: 2135
-        y: 207
-        width: 997
-        height: 628
+        x: 1709
+        y: 1.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -489,10 +489,10 @@ TextureImporter:
       name: bacteria bola cansada_17
       rect:
         serializedVersion: 2
-        x: 3837
-        y: 209
-        width: 998
-        height: 594
+        x: 3418
+        y: 1.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -510,10 +510,10 @@ TextureImporter:
       name: bacteria bola cansada_18
       rect:
         serializedVersion: 2
-        x: 5544
-        y: 207
-        width: 1001
-        height: 575
+        x: 5127
+        y: 1.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -531,10 +531,10 @@ TextureImporter:
       name: bacteria bola cansada_19
       rect:
         serializedVersion: 2
-        x: 7251
-        y: 209
-        width: 998
-        height: 565
+        x: 6836
+        y: 1.5
+        width: 1709.4
+        height: 1708.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

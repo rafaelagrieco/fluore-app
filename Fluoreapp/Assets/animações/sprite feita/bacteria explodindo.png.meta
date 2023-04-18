@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 500
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -132,10 +132,10 @@ TextureImporter:
       name: bacteria explodindo_0
       rect:
         serializedVersion: 2
-        x: 341
-        y: 3635
-        width: 825
-        height: 945
+        x: 0
+        y: 3420
+        width: 1708.6
+        height: 1710
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,10 +153,10 @@ TextureImporter:
       name: bacteria explodindo_1
       rect:
         serializedVersion: 2
-        x: 2063
-        y: 3631
-        width: 813
-        height: 955
+        x: 1708
+        y: 3420
+        width: 1708.6
+        height: 1710
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,10 +174,10 @@ TextureImporter:
       name: bacteria explodindo_2
       rect:
         serializedVersion: 2
-        x: 3769
-        y: 3631
-        width: 822
-        height: 971
+        x: 3416
+        y: 3420
+        width: 1708.6
+        height: 1710
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,10 +195,10 @@ TextureImporter:
       name: bacteria explodindo_3
       rect:
         serializedVersion: 2
-        x: 5487
-        y: 3631
-        width: 818
-        height: 976
+        x: 5124
+        y: 3420
+        width: 1708.6
+        height: 1710
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,10 +216,10 @@ TextureImporter:
       name: bacteria explodindo_4
       rect:
         serializedVersion: 2
-        x: 7252
-        y: 3635
-        width: 763
-        height: 972
+        x: 6832
+        y: 3420
+        width: 1708.6
+        height: 1710
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,10 +237,10 @@ TextureImporter:
       name: bacteria explodindo_5
       rect:
         serializedVersion: 2
-        x: 346
-        y: 1772
-        width: 915
-        height: 1145
+        x: 0
+        y: 1710
+        width: 1708.6
+        height: 1710
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,10 +258,10 @@ TextureImporter:
       name: bacteria explodindo_7
       rect:
         serializedVersion: 2
-        x: 2055
-        y: 1777
-        width: 911
-        height: 1136
+        x: 3416
+        y: 1710
+        width: 1708.6
+        height: 1710
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,10 +279,10 @@ TextureImporter:
       name: bacteria explodindo_9
       rect:
         serializedVersion: 2
-        x: 3746
-        y: 1777
-        width: 956
-        height: 1152
+        x: 6832
+        y: 1710
+        width: 1708.6
+        height: 1710
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -297,13 +297,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bacteria explodindo_42
+      name: bacteria explodindo_6
       rect:
         serializedVersion: 2
-        x: 7156
-        y: 1781
-        width: 993
-        height: 1150
+        x: 1708
+        y: 1710
+        width: 1708.6
+        height: 1710
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -311,20 +311,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a7fb27ba23635c419600c77efde51af
-      internalID: 891648563
+      spriteID: 727925e049fe8fb4dbe852a6e3a36d54
+      internalID: 777278550
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bacteria explodindo_50
+      name: bacteria explodindo_8
       rect:
         serializedVersion: 2
-        x: 5446
-        y: 1768
-        width: 988
-        height: 1165
+        x: 5124
+        y: 1710
+        width: 1708.6
+        height: 1710
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -332,20 +332,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6a8a8370fe1ee84c8e50534ab1f7c78
-      internalID: -1772749137
+      spriteID: 5a3729dd8141ba747b0aabbd6e4b75c0
+      internalID: -701044959
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bacteria explodindo_84
+      name: bacteria explodindo_10
       rect:
         serializedVersion: 2
-        x: 3707
-        y: 67
-        width: 1101
-        height: 1165
+        x: 0
+        y: 0
+        width: 1708.6
+        height: 1710
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,20 +353,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c2f231d98c7bba4fac22d76d5cdcb4c
-      internalID: 983437978
+      spriteID: ca4c3bdd8453e7f4fa1f190f3b163df9
+      internalID: -1610005239
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bacteria explodindo_91
+      name: bacteria explodindo_11
       rect:
         serializedVersion: 2
-        x: 336
-        y: 69
-        width: 1010
-        height: 1159
+        x: 1708
+        y: 0
+        width: 1708.6
+        height: 1710
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,20 +374,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f27701bbddaf6974da9f3bc103dbb797
-      internalID: 1231736511
+      spriteID: 09cb390bb1274484cb4b9f9451c9b484
+      internalID: 2119742094
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bacteria explodindo_92
+      name: bacteria explodindo_12
       rect:
         serializedVersion: 2
-        x: 2018
-        y: 73
-        width: 1063
-        height: 1155
+        x: 3416
+        y: 0
+        width: 1708.6
+        height: 1710
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -395,29 +395,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1ab299f32071c144a8047434621f6c0
-      internalID: 1729156197
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bacteria explodindo_93
-      rect:
-        serializedVersion: 2
-        x: 5074
-        y: 68
-        width: 1069
-        height: 1162
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3ea5328f4f3494e46b8b5f34aa0c55c5
-      internalID: 152190919
+      spriteID: 67fac27d4ef3f1140a468a94fcf6e0f5
+      internalID: 476616677
       vertices: []
       indices: 
       edges: []
@@ -433,100 +412,19 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      bacteria explodindo_29: -763003621
-      bacteria explodindo_73: -704451196
-      bacteria explodindo_32: 423023577
-      bacteria explodindo_88: -121638877
-      bacteria explodindo_40: 955261974
-      bacteria explodindo_79: -503077141
-      bacteria explodindo_45: 515139826
-      bacteria explodindo_27: -365457634
-      bacteria explodindo_49: 1241752694
-      bacteria explodindo_37: -1822931113
-      bacteria explodindo_80: -1062696860
-      bacteria explodindo_56: -1586272442
-      bacteria explodindo_81: -110093667
-      bacteria explodindo_0: -650745761
-      bacteria explodindo_28: 214864369
-      bacteria explodindo_15: -1033963986
-      bacteria explodindo_54: -235676311
-      bacteria explodindo_65: 969736674
-      bacteria explodindo_38: 909692370
-      bacteria explodindo_3: 46655132
-      bacteria explodindo_9: -703882954
-      bacteria explodindo_50: -1772749137
-      bacteria explodindo_59: -1340142631
-      bacteria explodindo_48: 98963946
-      bacteria explodindo_77: 642275855
-      bacteria explodindo_35: 810695893
-      bacteria explodindo_93: 152190919
-      bacteria explodindo_76: 1511819527
-      bacteria explodindo_23: -812293625
-      bacteria explodindo_47: 592370392
-      bacteria explodindo_21: 994471026
-      bacteria explodindo_36: 652128579
-      bacteria explodindo_7: -429669619
-      bacteria explodindo_66: -1241917745
-      bacteria explodindo_78: 1929905816
-      bacteria explodindo_4: -217199636
-      bacteria explodindo_84: 983437978
-      bacteria explodindo_72: -54974138
-      bacteria explodindo_14: -1710387254
-      bacteria explodindo_30: 1411683751
-      bacteria explodindo_61: -570223185
-      bacteria explodindo_19: 871372598
-      bacteria explodindo_51: -653671449
-      bacteria explodindo_55: -1129770222
-      bacteria explodindo_18: 79529386
-      bacteria explodindo_8: -701044959
-      bacteria explodindo_41: -1348760525
-      bacteria explodindo_58: -1958213921
       bacteria explodindo_6: 777278550
-      bacteria explodindo_22: -405697006
-      bacteria explodindo_46: -1674192485
-      bacteria explodindo_63: -668753938
-      bacteria explodindo_43: 1236580978
-      bacteria explodindo_34: 515773297
-      bacteria explodindo_60: 1024229725
-      bacteria explodindo_86: 1204336829
+      bacteria explodindo_7: -429669619
       bacteria explodindo_11: 2119742094
-      bacteria explodindo_68: 1686132268
-      bacteria explodindo_62: -1977991549
-      bacteria explodindo_25: -1598327402
-      bacteria explodindo_70: -76445282
-      bacteria explodindo_42: 891648563
-      bacteria explodindo_85: 1560897478
-      bacteria explodindo_24: -2021801320
-      bacteria explodindo_1: -1935701240
-      bacteria explodindo_75: 258562101
-      bacteria explodindo_89: -304654044
-      bacteria explodindo_31: 75846214
-      bacteria explodindo_52: 1252430914
-      bacteria explodindo_67: -448872017
-      bacteria explodindo_92: 1729156197
-      bacteria explodindo_64: -506759736
-      bacteria explodindo_39: 655980143
-      bacteria explodindo_53: 2008874260
-      bacteria explodindo_91: 1231736511
-      bacteria explodindo_90: -497542192
-      bacteria explodindo_57: 1665851585
-      bacteria explodindo_69: 1056506818
-      bacteria explodindo_20: -1848152275
-      bacteria explodindo_74: -604268379
-      bacteria explodindo_17: -262765864
-      bacteria explodindo_87: 919322424
+      bacteria explodindo_4: -217199636
+      bacteria explodindo_0: -650745761
       bacteria explodindo_5: 1991858170
       bacteria explodindo_2: 542240273
       bacteria explodindo_12: 476616677
-      bacteria explodindo_16: -1119371576
-      bacteria explodindo_33: 79196715
+      bacteria explodindo_1: -1935701240
       bacteria explodindo_10: -1610005239
-      bacteria explodindo_13: -1671701918
-      bacteria explodindo_83: -24010982
-      bacteria explodindo_26: 2133043045
-      bacteria explodindo_71: -1583825172
-      bacteria explodindo_44: -1838788078
-      bacteria explodindo_82: -311057285
+      bacteria explodindo_3: 46655132
+      bacteria explodindo_9: -703882954
+      bacteria explodindo_8: -701044959
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

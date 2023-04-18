@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 500
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -132,10 +132,10 @@ TextureImporter:
       name: coelho piscar_1
       rect:
         serializedVersion: 2
-        x: 259
-        y: 4445
-        width: 1018
-        height: 974
+        x: 1422
+        y: 4267.5
+        width: 1422.3334
+        height: 1422.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,10 +153,10 @@ TextureImporter:
       name: coelho piscar_3
       rect:
         serializedVersion: 2
-        x: 1679
-        y: 4449
-        width: 1023
-        height: 970
+        x: 4266
+        y: 4267.5
+        width: 1422.3334
+        height: 1422.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,10 +174,10 @@ TextureImporter:
       name: coelho piscar_5
       rect:
         serializedVersion: 2
-        x: 3107
-        y: 4444
-        width: 1016
-        height: 973
+        x: 7110
+        y: 4267.5
+        width: 1422.3334
+        height: 1422.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,10 +195,10 @@ TextureImporter:
       name: coelho piscar_7
       rect:
         serializedVersion: 2
-        x: 4526
-        y: 4449
-        width: 1016
-        height: 968
+        x: 1422
+        y: 2845.5
+        width: 1422.3334
+        height: 1422.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,10 +216,10 @@ TextureImporter:
       name: coelho piscar_9
       rect:
         serializedVersion: 2
-        x: 5948
-        y: 4447
-        width: 1017
-        height: 970
+        x: 4266
+        y: 2845.5
+        width: 1422.3334
+        height: 1422.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,10 +237,10 @@ TextureImporter:
       name: coelho piscar_11
       rect:
         serializedVersion: 2
-        x: 7374
-        y: 4446
-        width: 1016
-        height: 971
+        x: 7110
+        y: 2845.5
+        width: 1422.3334
+        height: 1422.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,10 +258,10 @@ TextureImporter:
       name: coelho piscar_13
       rect:
         serializedVersion: 2
-        x: 258
-        y: 3024
-        width: 1019
-        height: 973
+        x: 1422
+        y: 1423.5
+        width: 1422.3334
+        height: 1422.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,10 +279,10 @@ TextureImporter:
       name: coelho piscar_15
       rect:
         serializedVersion: 2
-        x: 1673
-        y: 3021
-        width: 1028
-        height: 975
+        x: 4266
+        y: 1423.5
+        width: 1422.3334
+        height: 1422.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,10 +300,10 @@ TextureImporter:
       name: coelho piscar_17
       rect:
         serializedVersion: 2
-        x: 3108
-        y: 3024
-        width: 1015
-        height: 971
+        x: 7110
+        y: 1423.5
+        width: 1422.3334
+        height: 1422.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,10 +321,10 @@ TextureImporter:
       name: coelho piscar_19
       rect:
         serializedVersion: 2
-        x: 4528
-        y: 3024
-        width: 1016
-        height: 971
+        x: 1422
+        y: 1.5
+        width: 1422.3334
+        height: 1422.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -339,13 +339,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coelho piscar_21
+      name: coelho piscar_0
       rect:
         serializedVersion: 2
-        x: 5948
-        y: 3025
-        width: 1017
-        height: 972
+        x: 0
+        y: 4267.5
+        width: 1422.3334
+        height: 1422.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,20 +353,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f5a78c85bb04f5443859795a9b7a9beb
-      internalID: 75803382
+      spriteID: 240b610d1cacc7f4e9abb0269ff51616
+      internalID: 315146388
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coelho piscar_23
+      name: coelho piscar_2
       rect:
         serializedVersion: 2
-        x: 7374
-        y: 3024
-        width: 1016
-        height: 971
+        x: 2844
+        y: 4267.5
+        width: 1422.3334
+        height: 1422.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,20 +374,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f48b9c8223b701d4e9897e9a5b2c2615
-      internalID: 739594674
+      spriteID: 34b3ed74b1b904a448e49842fea8e1ad
+      internalID: -1295344405
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coelho piscar_25
+      name: coelho piscar_4
       rect:
         serializedVersion: 2
-        x: 259
-        y: 1598
-        width: 1018
-        height: 978
+        x: 5688
+        y: 4267.5
+        width: 1422.3334
+        height: 1422.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -395,20 +395,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b6d6a76bd8e1d344aa391f9d50b0454
-      internalID: -994725037
+      spriteID: dd9e50a4c7dbc9843a6dc486e0116558
+      internalID: -437452847
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coelho piscar_27
+      name: coelho piscar_6
       rect:
         serializedVersion: 2
-        x: 1681
-        y: 1597
-        width: 1019
-        height: 979
+        x: 0
+        y: 2845.5
+        width: 1422.3334
+        height: 1422.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -416,20 +416,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58586fd33187b2f4983aaa1b4e754d0d
-      internalID: -1549515229
+      spriteID: 9d91625b7740105409c91e3588db5463
+      internalID: 1899056253
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coelho piscar_29
+      name: coelho piscar_8
       rect:
         serializedVersion: 2
-        x: 3106
-        y: 1598
-        width: 1017
-        height: 976
+        x: 2844
+        y: 2845.5
+        width: 1422.3334
+        height: 1422.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -437,20 +437,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1102ece8198d0af4b9ab5c22c485ffcd
-      internalID: 984090839
+      spriteID: be71506cdf08c0c4f98272eb4fc81176
+      internalID: -1668307333
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coelho piscar_31
+      name: coelho piscar_10
       rect:
         serializedVersion: 2
-        x: 4526
-        y: 1598
-        width: 1018
-        height: 976
+        x: 5688
+        y: 2845.5
+        width: 1422.3334
+        height: 1422.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -458,20 +458,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc82faf0454aa5646a2f62cf3e6b20ed
-      internalID: 921583312
+      spriteID: 57d1b69db631c314e9f334d270f41fd8
+      internalID: -1964375875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coelho piscar_33
+      name: coelho piscar_12
       rect:
         serializedVersion: 2
-        x: 5947
-        y: 1597
-        width: 1018
-        height: 979
+        x: 0
+        y: 1423.5
+        width: 1422.3334
+        height: 1422.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -479,20 +479,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: baad1b2c531801c4ebf9822c8c152673
-      internalID: 1443782452
+      spriteID: c679897dc20bb924d8534c4b11925f05
+      internalID: 874533686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coelho piscar_35
+      name: coelho piscar_14
       rect:
         serializedVersion: 2
-        x: 7374
-        y: 1597
-        width: 1016
-        height: 977
+        x: 2844
+        y: 1423.5
+        width: 1422.3334
+        height: 1422.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -500,20 +500,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29af113c97abbde46b773ee04ba6a7cb
-      internalID: 375600633
+      spriteID: 73e70151783e054478de51fc027b1a57
+      internalID: 136281555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coelho piscar_37
+      name: coelho piscar_16
       rect:
         serializedVersion: 2
-        x: 259
-        y: 176
-        width: 1018
-        height: 976
+        x: 5688
+        y: 1423.5
+        width: 1422.3334
+        height: 1422.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -521,20 +521,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de19c92637adbc547bae1cd864ad7561
-      internalID: -473232249
+      spriteID: a5302feb12ddb8a4a96410066fc784f3
+      internalID: -397286733
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coelho piscar_39
+      name: coelho piscar_18
       rect:
         serializedVersion: 2
-        x: 1683
-        y: 176
-        width: 1017
-        height: 976
+        x: 0
+        y: 1.5
+        width: 1422.3334
+        height: 1422.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -542,20 +542,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39315ced7c844394ab8d04a0ba6f5ad1
-      internalID: 1859896297
+      spriteID: c61a866d7c4d11143b0f1473f75d9de9
+      internalID: 551378975
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coelho piscar_41
+      name: coelho piscar_20
       rect:
         serializedVersion: 2
-        x: 3105
-        y: 175
-        width: 1018
-        height: 975
+        x: 2844
+        y: 1.5
+        width: 1422.3334
+        height: 1422.5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -563,8 +563,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a2a0317acff3a241b3bf142fd12e3da
-      internalID: -100882222
+      spriteID: 27923b37d6d327c4fb95894e4defc4c2
+      internalID: -629796925
       vertices: []
       indices: 
       edges: []
@@ -580,48 +580,27 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      coelho piscar_27: -1549515229
-      coelho piscar_29: 984090839
       coelho piscar_4: -437452847
-      coelho piscar_40: -900071344
       coelho piscar_0: 315146388
       coelho piscar_2: -1295344405
-      coelho piscar_33: 1443782452
-      coelho piscar_32: 1902817639
       coelho piscar_5: 2051596587
       coelho piscar_12: 874533686
       coelho piscar_17: 365384945
       coelho piscar_14: 136281555
       coelho piscar_13: 168779706
-      coelho piscar_36: -708822208
       coelho piscar_7: 919541055
-      coelho piscar_28: 441264124
       coelho piscar_3: 1342911758
-      coelho piscar_37: -473232249
-      coelho piscar_26: 969410023
       coelho piscar_6: 1899056253
-      coelho piscar_39: 1859896297
       coelho piscar_9: 1733079696
       coelho piscar_20: -629796925
-      coelho piscar_24: -1128643476
       coelho piscar_10: -1964375875
-      coelho piscar_30: 821572986
       coelho piscar_8: -1668307333
-      coelho piscar_25: -994725037
       coelho piscar_16: -397286733
-      coelho piscar_31: 921583312
-      coelho piscar_35: 375600633
       coelho piscar_11: -2091719596
-      coelho piscar_38: 444424061
-      coelho piscar_21: 75803382
       coelho piscar_18: 551378975
       coelho piscar_15: -1142763693
       coelho piscar_1: 35081018
-      coelho piscar_41: -100882222
       coelho piscar_19: -976941090
-      coelho piscar_34: -1696174806
-      coelho piscar_22: -1919273626
-      coelho piscar_23: 739594674
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
