@@ -30,6 +30,7 @@ public class Arduino : MonoBehaviour
             message = serialPort.ReadLine();
             Debug.Log(message);
         }
+        serialPort.
 
 
 
