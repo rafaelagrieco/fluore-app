@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.IO.Ports;
 
- 
 
 public class Arduino : MonoBehaviour
 {
@@ -18,7 +17,7 @@ public class Arduino : MonoBehaviour
     {
         if (!pc) //Esse modo teoricamente funciona somente com o arduino
         {
-            serialPort = new SerialPort("COM1", 9600);
+            serialPort = new SerialPort("COM3", 9600);
             serialPort.Open();
 
             serialPort.Write("I");
