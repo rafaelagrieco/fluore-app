@@ -9,7 +9,7 @@ public class TimerGeral : MonoBehaviour
     public Color corAzul;
     public Color corVermelha;
     Animator anim;
-
+    
     public Material material;
 
     public Image background;
@@ -18,6 +18,7 @@ public class TimerGeral : MonoBehaviour
 
     void Start()
     {
+        
         anim = GetComponentInChildren<Animator>();
         sliderFill.maxValue = timer;
         sliderFill.value = timer;

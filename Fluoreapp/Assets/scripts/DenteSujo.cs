@@ -10,6 +10,8 @@ public class DenteSujo : MonoBehaviour
     public SpriteRenderer sprite2;
     public bool escovando;
 
+    [HideInInspector] public bool clean;
+
     private float m_TempoEscovando;
     private float m_timer;
     private Color cor;
@@ -30,14 +32,11 @@ public class DenteSujo : MonoBehaviour
             cor.a = TempoEscovando / m_TempoEscovando;
             sprite.color = cor;
             sprite2.color = cor;
-
-            
-           
-
         }
         else if (TempoEscovando <= 0)
         {
             cor.a = 0;
+            clean = true;
             //CABOU
         } 
 

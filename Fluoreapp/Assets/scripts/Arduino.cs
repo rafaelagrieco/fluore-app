@@ -17,7 +17,7 @@ public class Arduino : MonoBehaviour
 
     void Start()
     {
-        serialPort = new SerialPort("COM3", 9600);
+        serialPort = new SerialPort("COM1", 9600);
         serialPort.Open();
     }
 
@@ -30,9 +30,7 @@ public class Arduino : MonoBehaviour
             message = serialPort.ReadLine();
             Debug.Log(message);
         }
-        serialPort.
-
-
+        
 
     }
 }

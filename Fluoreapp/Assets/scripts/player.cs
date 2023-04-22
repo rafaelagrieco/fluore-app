@@ -25,11 +25,6 @@ public class player : MonoBehaviour
             if (Input.GetKey(KeyCode.Space))
             {
                 anim.SetTrigger("Ataque");
-                //Collider2D[] enemiesToDamage = Physics2D.OverlapCircleAll(attackPos.position, attackRange);
-                //for (int i = 0; i < enemiesToDamage.Length; i++)
-                //{
-                //    enemiesToDamage[i].GetComponent<enemy>().TakeDamage(damage);
-                //}
             }
             timeBtwAttack = startTimeBtwAttack;
         }
