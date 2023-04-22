@@ -18,6 +18,7 @@ public class enemy : MonoBehaviour
     {
         anim = GetComponent<Animator>();
         m_health = health;
+        
     }
 
     public void TakeDamage(int damage)

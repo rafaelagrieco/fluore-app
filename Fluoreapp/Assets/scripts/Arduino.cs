@@ -20,6 +20,8 @@ public class Arduino : MonoBehaviour
         {
             serialPort = new SerialPort("COM1", 9600);
             serialPort.Open();
+
+            serialPort.Write("I");
         }
     }
 
