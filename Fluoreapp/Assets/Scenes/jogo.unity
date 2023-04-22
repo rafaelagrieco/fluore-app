@@ -260,6 +260,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 57354e067d6cf49409dd660a8686cc24, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pc: 1
+  key: 101
   playerScript: {fileID: 1854008172}
   denteSujo: {fileID: 45687788}
 --- !u!1 &77182538

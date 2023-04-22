@@ -8,6 +8,7 @@ using System.IO.Ports;
 public class Arduino : MonoBehaviour
 {
     public bool pc;
+    public KeyCode key;
     public player playerScript;
     public DenteSujo denteSujo;
     SerialPort serialPort;
@@ -15,9 +16,11 @@ public class Arduino : MonoBehaviour
 
     void Start()
     {
-        //serialPort.begin(9600);
-        //serialPort = new SerialPort("COM1", 9600);
-        //serialPort.Open();
+        if (!pc) //Esse modo teoricamente funciona somente com o arduino
+        {
+            serialPort = new SerialPort("COM1", 9600);
+            serialPort.Open();
+        }
     }
 
 
@@ -28,7 +31,7 @@ public class Arduino : MonoBehaviour
         if (pc) //para selecionar o modo pc ou arduino, basta trocar a bool no inspector como true ou false
         {
             //Esse modo funciona somente para testes em pc
-            if (Input.GetKey(KeyCode.E))
+            if (Input.GetKey(key))
 
             {
                 playerScript.TriggerAttack();
