@@ -132,12 +132,12 @@ TextureImporter:
       name: tikki home feliz_4
       rect:
         serializedVersion: 2
-        x: 44
-        y: 5164
-        width: 1339
-        height: 1281
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 6812
+        y: 5109.75
+        width: 1703.2
+        height: 1703.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -153,12 +153,12 @@ TextureImporter:
       name: tikki home feliz_5
       rect:
         serializedVersion: 2
-        x: 1745
-        y: 5164
-        width: 1338
-        height: 1281
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 3406.75
+        width: 1703.2
+        height: 1703.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -174,12 +174,12 @@ TextureImporter:
       name: tikki home feliz_6
       rect:
         serializedVersion: 2
-        x: 3449
-        y: 5162
-        width: 1448
-        height: 1308
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1703
+        y: 3406.75
+        width: 1703.2
+        height: 1703.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -195,12 +195,12 @@ TextureImporter:
       name: tikki home feliz_8
       rect:
         serializedVersion: 2
-        x: 5154
-        y: 5164
-        width: 1466
-        height: 1346
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 5109
+        y: 3406.75
+        width: 1703.2
+        height: 1703.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -216,12 +216,12 @@ TextureImporter:
       name: tikki home feliz_11
       rect:
         serializedVersion: 2
-        x: 6855
-        y: 5164
-        width: 1490
-        height: 1356
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1703
+        y: 1703.75
+        width: 1703.2
+        height: 1703.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -234,274 +234,274 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tikki home feliz_25
+      name: tikki home feliz_0
       rect:
         serializedVersion: 2
-        x: 44
-        y: 3459
-        width: 1503
-        height: 1373
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 5109.75
+        width: 1703.2
+        height: 1703.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 284d3147475ef774598cc2793db6cdcc
-      internalID: -469146636
+      spriteID: 7511e200c046bdb4291db412f60f5e14
+      internalID: 249797612
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tikki home feliz_26
+      name: tikki home feliz_1
       rect:
         serializedVersion: 2
-        x: 1745
-        y: 3459
-        width: 1510
-        height: 1382
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1703
+        y: 5109.75
+        width: 1703.2
+        height: 1703.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 60bb041d86d764747910e456629d446e
-      internalID: -1696103293
+      spriteID: 2f596857818e8354395fc8e68a495c8d
+      internalID: 2052956751
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tikki home feliz_28
+      name: tikki home feliz_2
       rect:
         serializedVersion: 2
-        x: 3449
-        y: 3459
-        width: 1537
-        height: 1418
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 3406
+        y: 5109.75
+        width: 1703.2
+        height: 1703.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e16b3b9d93884ac478de92699b96bb83
-      internalID: -1674846819
+      spriteID: aa73d5204305c0c4a8961700f7fc50a9
+      internalID: -627365988
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tikki home feliz_30
+      name: tikki home feliz_3
       rect:
         serializedVersion: 2
-        x: 5157
-        y: 3459
-        width: 1558
-        height: 1428
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 5109
+        y: 5109.75
+        width: 1703.2
+        height: 1703.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ca4d12c3898cce4fab72b4e4ceae0b2
-      internalID: 1560845465
+      spriteID: d155222fad7a82146a93fea49b75fe90
+      internalID: 1492233936
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tikki home feliz_31
+      name: tikki home feliz_7
       rect:
         serializedVersion: 2
-        x: 6855
-        y: 3459
-        width: 1412
-        height: 1427
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 3406
+        y: 3406.75
+        width: 1703.2
+        height: 1703.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29f2bf9b63c5d744b991f00c6c334f24
-      internalID: 1839375501
+      spriteID: 50459d9db8816f14684bddf82f30cdf1
+      internalID: -875228668
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tikki home feliz_40
+      name: tikki home feliz_9
       rect:
         serializedVersion: 2
-        x: 44
-        y: 1757
-        width: 1397
-        height: 1223
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 6812
+        y: 3406.75
+        width: 1703.2
+        height: 1703.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e125656854b669b4195841379c999b5f
-      internalID: 1577297079
+      spriteID: fa7df82e3d410c44780095c2349e0ab1
+      internalID: 1098726130
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tikki home feliz_41
+      name: tikki home feliz_10
       rect:
         serializedVersion: 2
-        x: 1745
-        y: 1757
-        width: 1372
-        height: 1240
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 1703.75
+        width: 1703.2
+        height: 1703.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5aa62b62239cbf9468e6b54cfe5996df
-      internalID: -947049838
+      spriteID: 13a18ae267c432f47b34cb481ca292e0
+      internalID: -925101506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tikki home feliz_42
+      name: tikki home feliz_12
       rect:
         serializedVersion: 2
-        x: 3449
-        y: 1757
-        width: 1339
-        height: 1261
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 3406
+        y: 1703.75
+        width: 1703.2
+        height: 1703.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ceaf90d8ee4216845b22d0c41449b23c
-      internalID: -1220313326
+      spriteID: a8ed6a02dbe6ba14f936863f4b39cb69
+      internalID: -1755116962
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tikki home feliz_43
+      name: tikki home feliz_13
       rect:
         serializedVersion: 2
-        x: 5154
-        y: 1757
-        width: 1338
-        height: 1261
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 5109
+        y: 1703.75
+        width: 1703.2
+        height: 1703.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe8dcb5788d97214d9eaecef2aacf9b0
-      internalID: -661676504
+      spriteID: 66cb381a2f4ce1f4c867335eaff7ca46
+      internalID: -564339220
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tikki home feliz_44
+      name: tikki home feliz_14
       rect:
         serializedVersion: 2
-        x: 6855
-        y: 1757
-        width: 1339
-        height: 1261
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 6812
+        y: 1703.75
+        width: 1703.2
+        height: 1703.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a27b45900e56ea4fb7f4752006cd182
-      internalID: -645997163
+      spriteID: 74a1544bfa0dc6c4c91ce52cad27ef6b
+      internalID: 1060202658
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tikki home feliz_45
+      name: tikki home feliz_15
       rect:
         serializedVersion: 2
-        x: 44
-        y: 56
-        width: 1339
-        height: 1273
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 0.75
+        width: 1703.2
+        height: 1703.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7eeae7a86541988429ec6b79d1089587
-      internalID: 1040737090
+      spriteID: 06c5e6763315e0f48b35b08ca5081265
+      internalID: -588745588
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tikki home feliz_46
+      name: tikki home feliz_16
       rect:
         serializedVersion: 2
-        x: 1745
-        y: 56
-        width: 1338
-        height: 1281
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1703
+        y: 0.75
+        width: 1703.2
+        height: 1703.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5e2b4d32ed2dc94c9a436249091ac2a
-      internalID: 864962155
+      spriteID: fad981f9c1da36244b73a8d9cb32c669
+      internalID: -910021558
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tikki home feliz_47
+      name: tikki home feliz_17
       rect:
         serializedVersion: 2
-        x: 3449
-        y: 56
-        width: 1339
-        height: 1281
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 3406
+        y: 0.75
+        width: 1703.2
+        height: 1703.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d48075680f1919940abb9956f0d85484
-      internalID: -487958994
+      spriteID: c09727017a1035747812c8f9aa3fafee
+      internalID: 855628905
       vertices: []
       indices: 
       edges: []
@@ -517,52 +517,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      tikki home feliz_8: -1331292230
       tikki home feliz_4: -1068457837
       tikki home feliz_14: 1060202658
-      tikki home feliz_38: 1520637366
       tikki home feliz_11: -418936951
-      tikki home feliz_37: -599120390
-      tikki home feliz_36: 2021557927
-      tikki home feliz_43: -661676504
-      tikki home feliz_45: 1040737090
       tikki home feliz_2: -627365988
+      tikki home feliz_3: 1492233936
       tikki home feliz_6: -2137256657
       tikki home feliz_13: -564339220
       tikki home feliz_16: -910021558
-      tikki home feliz_23: 424876814
-      tikki home feliz_44: -645997163
+      tikki home feliz_7: -875228668
+      tikki home feliz_5: -1336964388
       tikki home feliz_10: -925101506
       tikki home feliz_15: -588745588
-      tikki home feliz_30: 1560845465
-      tikki home feliz_19: 1257802166
-      tikki home feliz_17: 855628905
-      tikki home feliz_20: -322964258
-      tikki home feliz_46: 864962155
-      tikki home feliz_41: -947049838
-      tikki home feliz_8: -1331292230
-      tikki home feliz_42: -1220313326
-      tikki home feliz_26: -1696103293
-      tikki home feliz_27: 857802462
-      tikki home feliz_25: -469146636
-      tikki home feliz_3: 1492233936
-      tikki home feliz_39: 961130269
-      tikki home feliz_40: 1577297079
-      tikki home feliz_18: 1285202268
-      tikki home feliz_29: -1942463001
-      tikki home feliz_34: 907521172
-      tikki home feliz_7: -875228668
-      tikki home feliz_47: -487958994
-      tikki home feliz_5: -1336964388
-      tikki home feliz_31: 1839375501
-      tikki home feliz_35: 96439773
-      tikki home feliz_33: 7089127
-      tikki home feliz_22: 543555107
-      tikki home feliz_21: -1385260239
       tikki home feliz_12: -1755116962
-      tikki home feliz_24: 24490978
-      tikki home feliz_28: -1674846819
       tikki home feliz_9: 1098726130
-      tikki home feliz_32: 1804070861
+      tikki home feliz_17: 855628905
       tikki home feliz_1: 2052956751
       tikki home feliz_0: 249797612
   spritePackingTag: 

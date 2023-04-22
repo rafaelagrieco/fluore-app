@@ -132,12 +132,12 @@ TextureImporter:
       name: tikki home piscar_0
       rect:
         serializedVersion: 2
-        x: 44
-        y: 5180
-        width: 1343
-        height: 1285
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 5125.5
+        width: 1708.6
+        height: 1708.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -153,12 +153,12 @@ TextureImporter:
       name: tikki home piscar_1
       rect:
         serializedVersion: 2
-        x: 1750
-        y: 5180
-        width: 1343
-        height: 1285
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1708
+        y: 5125.5
+        width: 1708.6
+        height: 1708.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -174,12 +174,12 @@ TextureImporter:
       name: tikki home piscar_2
       rect:
         serializedVersion: 2
-        x: 3460
-        y: 5180
-        width: 1343
-        height: 1285
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 3416
+        y: 5125.5
+        width: 1708.6
+        height: 1708.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -195,12 +195,12 @@ TextureImporter:
       name: tikki home piscar_3
       rect:
         serializedVersion: 2
-        x: 5166
-        y: 5180
-        width: 1343
-        height: 1285
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 5124
+        y: 5125.5
+        width: 1708.6
+        height: 1708.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -216,12 +216,12 @@ TextureImporter:
       name: tikki home piscar_4
       rect:
         serializedVersion: 2
-        x: 6877
-        y: 5180
-        width: 1343
-        height: 1285
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 6832
+        y: 5125.5
+        width: 1708.6
+        height: 1708.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -237,12 +237,12 @@ TextureImporter:
       name: tikki home piscar_5
       rect:
         serializedVersion: 2
-        x: 44
-        y: 3470
-        width: 1343
-        height: 1288
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 3417.5
+        width: 1708.6
+        height: 1708.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -258,12 +258,12 @@ TextureImporter:
       name: tikki home piscar_6
       rect:
         serializedVersion: 2
-        x: 1750
-        y: 3470
-        width: 1343
-        height: 1288
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1708
+        y: 3417.5
+        width: 1708.6
+        height: 1708.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -279,12 +279,12 @@ TextureImporter:
       name: tikki home piscar_7
       rect:
         serializedVersion: 2
-        x: 3460
-        y: 3470
-        width: 1343
-        height: 1288
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 3416
+        y: 3417.5
+        width: 1708.6
+        height: 1708.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -300,12 +300,12 @@ TextureImporter:
       name: tikki home piscar_8
       rect:
         serializedVersion: 2
-        x: 5166
-        y: 3470
-        width: 1343
-        height: 1288
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 5124
+        y: 3417.5
+        width: 1708.6
+        height: 1708.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -321,12 +321,12 @@ TextureImporter:
       name: tikki home piscar_9
       rect:
         serializedVersion: 2
-        x: 6877
-        y: 3470
-        width: 1343
-        height: 1288
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 6832
+        y: 3417.5
+        width: 1708.6
+        height: 1708.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -342,12 +342,12 @@ TextureImporter:
       name: tikki home piscar_10
       rect:
         serializedVersion: 2
-        x: 44
-        y: 1763
-        width: 1343
-        height: 1285
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 1709.5
+        width: 1708.6
+        height: 1708.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -363,12 +363,12 @@ TextureImporter:
       name: tikki home piscar_11
       rect:
         serializedVersion: 2
-        x: 1750
-        y: 1763
-        width: 1343
-        height: 1285
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1708
+        y: 1709.5
+        width: 1708.6
+        height: 1708.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -384,12 +384,12 @@ TextureImporter:
       name: tikki home piscar_12
       rect:
         serializedVersion: 2
-        x: 3460
-        y: 1763
-        width: 1343
-        height: 1285
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 3416
+        y: 1709.5
+        width: 1708.6
+        height: 1708.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -405,12 +405,12 @@ TextureImporter:
       name: tikki home piscar_13
       rect:
         serializedVersion: 2
-        x: 5166
-        y: 1763
-        width: 1343
-        height: 1285
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 5124
+        y: 1709.5
+        width: 1708.6
+        height: 1708.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -426,12 +426,12 @@ TextureImporter:
       name: tikki home piscar_14
       rect:
         serializedVersion: 2
-        x: 6877
-        y: 1763
-        width: 1343
-        height: 1285
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 6832
+        y: 1709.5
+        width: 1708.6
+        height: 1708.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -447,12 +447,12 @@ TextureImporter:
       name: tikki home piscar_15
       rect:
         serializedVersion: 2
-        x: 44
-        y: 56
-        width: 1343
-        height: 1285
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 1.5
+        width: 1708.6
+        height: 1708.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -468,12 +468,12 @@ TextureImporter:
       name: tikki home piscar_16
       rect:
         serializedVersion: 2
-        x: 1750
-        y: 56
-        width: 1343
-        height: 1285
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1708
+        y: 1.5
+        width: 1708.6
+        height: 1708.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -489,12 +489,12 @@ TextureImporter:
       name: tikki home piscar_17
       rect:
         serializedVersion: 2
-        x: 3460
-        y: 56
-        width: 1343
-        height: 1285
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 3416
+        y: 1.5
+        width: 1708.6
+        height: 1708.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -510,12 +510,12 @@ TextureImporter:
       name: tikki home piscar_18
       rect:
         serializedVersion: 2
-        x: 5166
-        y: 56
-        width: 1343
-        height: 1285
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 5124
+        y: 1.5
+        width: 1708.6
+        height: 1708.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -531,12 +531,12 @@ TextureImporter:
       name: tikki home piscar_19
       rect:
         serializedVersion: 2
-        x: 6877
-        y: 56
-        width: 1343
-        height: 1285
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 6832
+        y: 1.5
+        width: 1708.6
+        height: 1708.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
