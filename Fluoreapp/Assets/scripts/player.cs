@@ -22,15 +22,14 @@ public class player : MonoBehaviour
     {
         if(timeBtwAttack <= 0)
         {
-            if (Input.GetKey(KeyCode.Space))
-            {
-                anim.SetTrigger("Ataque");
-            }
-            timeBtwAttack = startTimeBtwAttack;
+            //if (Input.GetKey(KeyCode.Space))
+            //{
+            //    anim.SetTrigger("Ataque");
+            //}
         }
         else
         {
-            timeBtwAttack -= Time.deltaTime;
+            timeBtwAttack -= Time.deltaTime; 
         }
     }
 
@@ -38,6 +37,18 @@ public class player : MonoBehaviour
     {
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(attackPos.position, attackRange);
+    }
+
+    public void TriggerAttack()
+    {
+        if (timeBtwAttack <= 0)
+        {
+            anim.SetTrigger("Ataque");
+            timeBtwAttack = startTimeBtwAttack;
+
+        }
+       
+
     }
 
     public void Attack()

@@ -11,7 +11,7 @@ public class TimerGeral : MonoBehaviour
     Animator anim;
     
     public Material material;
-
+    
     public Image background;
     public Slider sliderFill;
     float startTime;

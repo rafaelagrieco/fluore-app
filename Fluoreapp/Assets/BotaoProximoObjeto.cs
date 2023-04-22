@@ -7,8 +7,11 @@ public class BotaoProximoObjeto : MonoBehaviour
 
     private void Start()
     {
+        
         Button btn = GetComponent<Button>();
         btn.onClick.AddListener(NextObject);
+
+        
     }
 
     private void NextObject()
@@ -16,6 +19,7 @@ public class BotaoProximoObjeto : MonoBehaviour
         nextObject.SetActive(false);
         gameObject.SetActive(false);
     }
+    
 }
 
 
