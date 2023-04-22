@@ -12,6 +12,10 @@ public class enemy : MonoBehaviour
     public bool m_dead;
     private int m_health;
     Animator anim;
+
+    public AudioSource spawnSFX;
+    public AudioSource explodirSFX;
+    public AudioSource cansadoSFX;
     
 
     void Start()
@@ -32,10 +36,12 @@ public class enemy : MonoBehaviour
         {
             m_dead = true;
             anim.SetTrigger("Die");
+            explodirSFX.Play();
         }
         else if( health == 1)
         {
             anim.SetTrigger("Cansado");
+            cansadoSFX.Play();
         }
 
     }
@@ -54,6 +60,8 @@ public class enemy : MonoBehaviour
         enemies.enabled = true;
         enemiesShadow.enabled = true;
         health = m_health;
+
+        spawnSFX.Play();
 
         if(m_dead) anim.SetTrigger("Respawn");
         m_dead = false;

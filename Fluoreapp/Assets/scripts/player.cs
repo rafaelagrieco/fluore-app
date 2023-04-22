@@ -11,10 +11,14 @@ public class player : MonoBehaviour
     public float attackRange;
     public int damage;
     private Animator anim;
-    
+
+    public AudioSource ataqueSFX;
+
     private void Start()
     {
         anim = gameObject.GetComponent<Animator>();
+
+
 
     }
 
@@ -45,6 +49,8 @@ public class player : MonoBehaviour
         {
             anim.SetTrigger("Ataque");
             timeBtwAttack = startTimeBtwAttack;
+
+            ataqueSFX.Play();
 
         }
        

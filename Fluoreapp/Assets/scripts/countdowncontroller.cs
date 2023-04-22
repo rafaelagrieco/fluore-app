@@ -9,6 +9,7 @@ public class countdowncontroller : MonoBehaviour
     public float countdownTime;
     public bool gameStart;
     public TextMeshProUGUI countdownDisplay;
+    public AudioSource cdwSFX;
 
     private void Start()
     {
@@ -26,6 +27,8 @@ public class countdowncontroller : MonoBehaviour
         {
             countdownTime -= Time.deltaTime;
             countdownDisplay.text = "" + (int)countdownTime;
+
+            cdwSFX.Play();
         }
        
     }
