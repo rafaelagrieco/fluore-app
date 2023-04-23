@@ -763,6 +763,7 @@ GameObject:
   - component: {fileID: 668495150}
   - component: {fileID: 668495152}
   - component: {fileID: 668495151}
+  - component: {fileID: 668495153}
   m_Layer: 5
   m_Name: Panel
   m_TagString: Untagged
@@ -837,6 +838,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 668495149}
   m_CullTransparentMesh: 1
+--- !u!114 &668495153
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 668495149}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43f1ae06ee51d2c4a873ddacef292127, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &696698001
 GameObject:
   m_ObjectHideFlags: 0
@@ -1716,7 +1729,6 @@ GameObject:
   - component: {fileID: 2037504608}
   - component: {fileID: 2037504607}
   - component: {fileID: 2037504606}
-  - component: {fileID: 2037504609}
   m_Layer: 5
   m_Name: voltar premio
   m_TagString: Untagged
@@ -1788,16 +1800,16 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11500000, guid: 61cf096aa99b72a4c93e6295798b6dab, type: 3}
-        m_TargetAssemblyTypeName: UnityEngine.Object, UnityEngine
-        m_MethodName: set_name
+      - m_Target: {fileID: 668495153}
+        m_TargetAssemblyTypeName: MainMenu, Assembly-CSharp
+        m_MethodName: LoadNewScene
         m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: volatrPremio.IrParaOutraCena
+          m_StringArgument: home
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &2037504607
@@ -1838,18 +1850,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2037504604}
   m_CullTransparentMesh: 1
---- !u!114 &2037504609
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2037504604}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 61cf096aa99b72a4c93e6295798b6dab, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &2082067544
 GameObject:
   m_ObjectHideFlags: 0

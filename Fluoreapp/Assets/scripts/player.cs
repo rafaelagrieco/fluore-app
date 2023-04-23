@@ -12,7 +12,8 @@ public class player : MonoBehaviour
     public int damage;
     private Animator anim;
 
-    public AudioSource ataqueSFX;
+    public AudioSource ataqueSFX; 
+    public AudioSource medoSFX;
 
     private void Start()
     {
@@ -54,6 +55,14 @@ public class player : MonoBehaviour
 
         }
        
+
+    }
+    public void ScaredSound()
+    {
+        medoSFX.Play();
+
+        
+
 
     }
 

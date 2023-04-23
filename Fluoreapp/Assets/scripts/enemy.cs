@@ -12,6 +12,7 @@ public class enemy : MonoBehaviour
     public bool m_dead;
     private int m_health;
     Animator anim;
+    private bool oneTime;
 
     public AudioSource spawnSFX;
     public AudioSource explodirSFX;
@@ -27,8 +28,9 @@ public class enemy : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
-        if (m_dead)
+        if (m_dead || oneTime)
             return;
+        oneTime = true;
 
         health -= damage;
 
@@ -37,11 +39,13 @@ public class enemy : MonoBehaviour
             m_dead = true;
             anim.SetTrigger("Die");
             explodirSFX.Play();
+            oneTime = false;    
         }
         else if( health == 1)
         {
             anim.SetTrigger("Cansado");
             cansadoSFX.Play();
+            oneTime = false;
         }
 
     }

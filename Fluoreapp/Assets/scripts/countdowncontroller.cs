@@ -6,21 +6,23 @@ using TMPro;
 
 public class countdowncontroller : MonoBehaviour
 {
+    public GameObject hudContainer;
     public float countdownTime;
     public bool gameStart;
     public TextMeshProUGUI countdownDisplay;
     public AudioSource cdwSFX;
+    public AudioClip audioClip;
 
-    private void Start()
+    private void Awake()
     {
-        
+      
     }
 
     private void Update()
     {
         if (gameStart || countdownTime <= 1)
         {
-            transform.gameObject.SetActive(false);
+            hudContainer.SetActive(false);
             return;
         }
         else
@@ -28,10 +30,13 @@ public class countdowncontroller : MonoBehaviour
             countdownTime -= Time.deltaTime;
             countdownDisplay.text = "" + (int)countdownTime;
 
-            cdwSFX.Play();
+           
+           
         }
-       
+        
+
     }
 
+    
     
 }
