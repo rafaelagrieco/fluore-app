@@ -85,7 +85,7 @@ void CalculatedAccels() {
         y = round(accel.cy * 10) / 10.0;
         z = round(accel.cz * 10) / 10.0;
         if (mudou) {
-          Serial.println("A");
+          Serial.write("A");
         }
         cont_dif = 0; // reseta contador
       }
@@ -94,7 +94,7 @@ void CalculatedAccels() {
       cont_dif = 0; // reseta contador se valores iguais
       mudou = false;
       if (!mudou) {
-        Serial.println("P");
+        Serial.write("P");
       }
     }
     previousTime = currentTime;
@@ -107,6 +107,6 @@ void printCalculatedAccels() {
   Serial.print(accel.cy, 1);
   Serial.print("\t");
   Serial.print(accel.cz, 1);
-  Serial.print("\t");
+  Serial.print("\n");
   delay (1000);
 }
